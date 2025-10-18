@@ -1,8 +1,11 @@
 🕘️更新时间,#genre#
-2025-10-18 06:11:32,http://117.174.25.254:8188/rtp/239.0.0.51:5140
+2025-10-18 18:12:02,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 
 📺央视频道,#genre#
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
+CETV-1,http://111.43.126.240:7777/hls/34/index.m3u8
+CETV-2,http://111.43.126.240:7777/hls/35/index.m3u8
+CETV-4,http://111.43.126.240:7777/hls/36/index.m3u8
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 🌊港·澳·台,#genre#
@@ -33,14 +36,18 @@ CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smi
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 淘剧场,http://115.171.216.75:4000/rtp/225.1.8.37:8002
 淘娱乐,http://115.171.216.75:4000/rtp/225.1.8.61:8002
+纬来电影,https://tv543.cc/Smart.php?id=videolandmovie
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
+天映经典,https://tv543.cc/Smart.php?id=Celestial2
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
+龙祥电影,https://tv543.cc/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
+东森洋片,https://tv543.cc/Smart.php?id=ettvwestern
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
