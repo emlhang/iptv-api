@@ -1,12 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-23 18:13:41,http://1.31.14.70:54321/hls/13/index.m3u8
+2025-10-24 06:10:18,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 
 📺央视频道,#genre#
-CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8
-CCTV-10,http://1.31.14.70:54321/hls/11/index.m3u8
-CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
-CETV-4,http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761355085-2257f0fc0c536efec9d5e684e4dea767-0-931767c17cbfd1d075f45baaf2788d7a
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 🌊港·澳·台,#genre#
