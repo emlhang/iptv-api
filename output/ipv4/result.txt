@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-31 18:13:30,https://httop.top/hrtn-cetv1
+2025-11-01 06:10:46,https://httop.top/hrtn-cetv1
 
 📺央视频道,#genre#
 CETV-1,https://httop.top/hrtn-cetv1
@@ -38,7 +38,6 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
-龙祥电影,https://tv543.cc/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 
 🎵音乐频道,#genre#
