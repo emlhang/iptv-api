@@ -1,12 +1,8 @@
 🕘️更新时间,#genre#
-2025-11-01 18:11:34,http://113.106.171.234:8899/rtp/239.20.0.236:2270
+2025-11-02 06:09:53,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 
 📺央视频道,#genre#
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
-CCTV-9,http://sh.lnott.top:880/dx09.m3u8
-CCTV-12,http://111.221.137.155:44330/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV-13,http://sh.lnott.top:880/dx13.m3u8
-CCTV-13,http://111.221.137.155:44330/tsfile/live/0013_1.m3u8?key=txiptv
 CETV-1,https://httop.top/hrtn-cetv1
 CETV-1,http://116.179.149.157:6000/rtp/226.0.2.181:9360
 
@@ -37,7 +33,6 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
-IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
