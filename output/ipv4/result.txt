@@ -1,14 +1,21 @@
 🕘️更新时间,#genre#
-2025-12-03 06:11:05,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+2025-12-03 18:13:31,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+CCTV-7,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/.m3u8
+CCTV-9,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/.m3u8
+CCTV-10,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8
+CCTV-12,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/.m3u8
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
+CCTV-14,http://183.238.86.52:4022/rtp/239.10.0.212:1025
+CCTV-15,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226910/.m3u8
+CCTV-15,http://183.238.86.52:4022/rtp/239.11.0.25:1025
 CETV-1,http://113.25.107.142:10000/rtp/239.1.1.65:8065
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
+CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 CETV-1,http://171.117.158.149:9999/rtp/226.0.2.181:9360
 CETV-1,http://221.205.180.120:8004/rtp/226.0.2.181:9360
-CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
@@ -24,7 +31,6 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
@@ -42,6 +48,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🎵音乐频道,#genre#
 风云音乐,http://116.179.130.16:6001/rtp/226.0.2.220:9672
 风云音乐,http://171.125.90.120:6001/rtp/226.0.2.220:9672
+风云音乐,http://183.238.86.52:4022/rtp/239.11.0.68:1025
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
