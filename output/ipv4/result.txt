@@ -1,22 +1,16 @@
 🕘️更新时间,#genre#
-2026-05-12 19:49:29,http://183.223.157.33:9901/tsfile/live/0002_1.m3u8
+2026-05-13 06:52:21,http://198.204.228.26/live/cctv3hd.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://183.223.157.33:9901/tsfile/live/0002_1.m3u8
 CCTV-3,http://198.204.228.26/live/cctv3hd.m3u8
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-8,http://198.204.228.26/live/cctv8hd.m3u8
-CCTV-9,http://183.223.157.33:9901/tsfile/live/0009_1.m3u8
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=73b69ea221be0bd00d6e465f10653101
 CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://183.223.157.33:9901/tsfile/live/0010_1.m3u8
 CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
 CCTV-13,http://198.204.228.26/live/cctv13hd.m3u8
-CCTV-13,http://183.223.157.33:9901/tsfile/live/0013_1.m3u8
 CCTV-14,http://192.151.150.154/live/cctv14hd.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
-CETV-2,https://iptv.catvod.com/catvod?id=CETV2&line=5
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
@@ -25,6 +19,11 @@ CETV-2,https://iptv.catvod.com/catvod?id=CETV2&line=5
 
 🎬电影频道,#genre#
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
+CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
+CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🎵音乐频道,#genre#
