@@ -1,24 +1,31 @@
 🕘️更新时间,#genre#
-2026-07-21 06:44:57,http://182.114.48.224:9901/tsfile/live/0001_1.m3u8
+2026-07-21 19:42:02,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://182.114.48.224:9901/tsfile/live/0001_1.m3u8
-CCTV-2,http://182.114.48.224:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://182.114.48.224:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+CCTV-2,http://125.43.247.15:9901/tsfile/live/1008_1.m3u8
+CCTV-2,http://182.114.48.224:9901/tsfile/live/0002_1.m3u8
+CCTV-4,http://182.114.48.224:9901/tsfile/live/0004_1.m3u8
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
-CCTV-5,http://182.114.48.224:9901/tsfile/live/0005_1.m3u8
+CCTV-5,http://125.43.247.15:9901/tsfile/live/1010_1.m3u8
 CCTV-6,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-6,http://182.114.48.224:9901/tsfile/live/0006_1.m3u8
+CCTV-6,http://125.43.247.15:9901/tsfile/live/1011_1.m3u8
+CCTV-7,http://125.43.247.15:9901/tsfile/live/1006_1.m3u8
+CCTV-8,http://125.43.247.15:9901/tsfile/live/1007_1.m3u8
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
+CCTV-9,http://182.114.48.224:9901/tsfile/live/0009_1.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
-CCTV-10,https://jsv-live-play.sfccn.com/live/jsv_3920_fhd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-CCTV-11,http://182.114.48.224:9901/tsfile/live/0011_1.m3u8
+CCTV-10,http://125.43.247.15:9901/tsfile/live/1013_1.m3u8
+CCTV-11,http://125.43.247.15:9901/tsfile/live/1014_1.m3u8
 CCTV-12,http://182.114.48.224:9901/tsfile/live/0012_1.m3u8
+CCTV-13,http://125.43.247.15:9901/tsfile/live/1016_1.m3u8
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
-CCTV-14,http://182.114.48.224:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://125.43.247.15:9901/tsfile/live/1017_1.m3u8
+CCTV-14,http://182.114.48.224:9901/tsfile/live/0014_1.m3u8
+CCTV-15,http://125.43.247.15:9901/tsfile/live/1018_1.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
@@ -27,10 +34,6 @@ CCTV-14,http://182.114.48.224:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🎵音乐频道,#genre#
