@@ -1,20 +1,15 @@
 🕘️更新时间,#genre#
-2026-07-31 19:52:03,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+2026-08-01 06:48:36,http://139.227.21.22:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
-CCTV-1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 CCTV-1,http://139.227.21.22:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
-CCTV-6,http://192.151.150.154/live/cctv6hd.m3u8
 CCTV-6,http://111.4.59.41:60901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-6,http://223.78.65.165:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-6,http://123.118.55.165:45237/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
-CCTV-9,http://123.163.114.121:9901/tsfile/live/0009_1.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,http://123.163.114.121:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
@@ -22,11 +17,8 @@ CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 CCTV-11,http://123.163.114.121:9901/tsfile/live/0011_1.m3u8
 CCTV-12,http://123.163.114.121:9901/tsfile/live/0012_1.m3u8
 CCTV-13,http://123.163.114.121:9901/tsfile/live/0013_1.m3u8
-CCTV-13,http://123.118.55.165:45237/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 CCTV-14,http://123.163.114.121:9901/tsfile/live/0014_1.m3u8
-CCTV-15,http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
-CCTV-15,http://123.163.114.121:9901/tsfile/live/0015_1.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
 
 🌊港·澳·台,#genre#
