@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-11 07:30:12,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-09-11 21:56:19,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
@@ -9,6 +9,7 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
+CETV-4,http://mg.cttv.vip/923287339
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
@@ -23,6 +24,8 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
+龙祥电影,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34825
+东森洋片,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34904
 
 🎵音乐频道,#genre#
 风云音乐,https://live.264788.xyz/channel/fengyunyinyue
